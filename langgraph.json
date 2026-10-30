@@ -1,0 +1,7 @@
+{
+  "node_version": "20",
+  "graphs": {
+    "codeloom": "./agent/graph.ts:createRepositoryAgent"
+  },
+  "env": ".env.local"
+}
