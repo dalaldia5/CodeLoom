@@ -33,8 +33,6 @@
 12. [Security Model](#-security-model)
 13. [Evaluation and Observability](#-evaluation-and-observability)
 14. [What CodeLoom Deliberately Doesn't Do](#-what-codeloom-deliberately-doesnt-do)
-15. [Contributing](#-contributing)
-16. [Acknowledgements](#-acknowledgements)
 
 ---
 
