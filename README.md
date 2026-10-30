@@ -223,7 +223,7 @@ codeloom/
 ### Install
 
 ```bash
-git clone https://github.com/<your-username>/codeloom.git
+git clone https://github.com/dalaldia5/CodeLoom.git
 cd codeloom
 pnpm install
 ```
